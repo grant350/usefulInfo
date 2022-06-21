@@ -41,5 +41,5 @@ processManagement:
 
 #snmp:
 
-#mongorestore --host   'ec2-3-94-180-234.compute-1.amazonaws.com:27017' --username 'grant' --password 'Iphone!1' --db 'zenabyss' --collection 'orders'  --dir zenabyss/orders.bson
+#mongorestore --host   'ec2-3-94-180-222.compute-1.amazonaws.com:27017' --username 'grant' --password '' --db 'zenabyss' --collection 'orders'  --dir zenabyss/orders.bson
 # docker use -p 27017:27017 to port forward 
